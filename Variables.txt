@@ -1,0 +1,68 @@
+Contrato de trabajo indefinido
+
+Name: "Alejandra Perez"
+DocDate: "15/01/2024"
+NIF: "21012373X"
+Born: "16/05/1993"
+SSnum: "07050693"
+EducationLvl:"1"
+Nationality: "Spanish"
+Home: "Valencia"
+Country: "Spain"
+
+HiredAs:"Supply Manager Supervisor"
+ProfGroup:"Grupo III nivel 2"
+Functions: "Propias de su grupo profesional"
+
+JobStarts: "01/01/2025"
+TestPeriod: "3"
+
+Salary: 30000
+
+
+Confidencialidad compromiso
+
+
+DocDate: "15/01/2024"
+Name: "Alejandra Perez"
+NIF: "21012373X"
+Name: "Alejandra Perez"
+
+
+Proteccion de datos del personal
+
+
+Name: "Alejandra Perez"
+NIF: "21012373X"
+Home:"Valencia"
+DocDate: "15/01/2024"
+
+Comunicacion ubicacion plan igualdad
+
+DocDate:"15/01/2024"
+Name:"Alejandra Perez"
+DocDate:"15/01/2024"
+
+
+Distribucion de documentos indefinidos y temporales (Docu fisica):
+
+DocDate:"15/01/2024"
+Name:"Alejandra Perez"
+DocDate:"15/01/2024"
+
+Distribucion de documentos indefinidos y temporales(Documentacion digital):
+
+DocDate:"15/01/2024"
+Name:"Alejandra Perez"
+DocDate:"15/01/2024"
+
+
+Distribucion de documentos indefinidos y temporales(Prevencion de riesgos):
+
+DocDate:"15/01/2024"
+Name:"Alejandra Perez"
+DocDate:"15/01/2024"
+
+
+
+
